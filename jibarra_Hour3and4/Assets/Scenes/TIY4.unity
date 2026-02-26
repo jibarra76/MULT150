@@ -338,7 +338,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -927199367670048503, guid: 645660153805568419d6765db98d9d57, type: 3}
       propertyPath: m_Name
-      value: gsl_2
+      value: Fishing Lodge
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 645660153805568419d6765db98d9d57, type: 3}
