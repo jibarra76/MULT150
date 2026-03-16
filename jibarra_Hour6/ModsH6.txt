@@ -1,0 +1,31 @@
+ __  __     __   __     __     ______   __  __    
+/\ \/\ \   /\ "-.\ \   /\ \   /\__  _\ /\ \_\ \   
+\ \ \_\ \  \ \ \-.  \  \ \ \  \/_/\ \/ \ \____ \  
+ \ \_____\  \ \_\\"\_\  \ \_\    \ \_\  \/\_____\ 
+  \/_____/   \/_/ \/_/   \/_/     \/_/   \/_____/                       
+                                                                                                                                                                  
+
+
+A. Add multiple finish zones. See if you can place them in a way that offers the player more choices. For example, a dangerous shortcut route vs an easy but lengthier one.
+
+There is one easy-to-find finish zone, but if you look for an arrow,(and some pink ruins), you might find a second one...
+
+
+
+B. Modify the level to have more, and different hazards. (At least 2 new hazards that are not water.)
+
+Fast flowing lava in several spots!
+
+
+
+C. Modify the game to include an element of verticality in your game to make use of the jumping mechanic! (spacebar to jump)
+
+You gotta jump just right to get over the river, and then you gotta take a leap of faith onto another terrain.
+
+
+
+D. Modify the sky and textures to create a world based on your theme.
+
+Pink sky with twinkling stars and a moon, which looks like...Earth's moon??
+
+
