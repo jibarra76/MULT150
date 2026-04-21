@@ -6,14 +6,14 @@ public class TriggerScript : MonoBehaviour
 {
 	
 	void OnTriggerEnter(Collider other) {
-        Debug.Log("Entered: " + gameObject.name);
+        Debug.Log("Entered: " + other.gameObject.name);
     }
 	
 	void OnTriggerExit(Collider other) {
-        Debug.Log("Exited: " + gameObject.name);
+        Debug.Log("Exited: " + other.gameObject.name);
     }
 	
 	void OnTriggerStay(Collider other) {
-        Debug.Log("Inside: " + gameObject.name);
+        Debug.Log("Inside: " + other.gameObject.name);
     }
 }
